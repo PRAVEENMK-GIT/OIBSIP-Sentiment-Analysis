@@ -39,4 +39,4 @@ pip install pandas matplotlib seaborn scikit-learn nltk wordcloud
 - `Twitter_Data.csv`: Contains cleaned tweet text and sentiment labels.
 
 ## Author
-GitHub Copilot
+Praveen MK
